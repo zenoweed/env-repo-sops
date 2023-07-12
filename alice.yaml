@@ -1,0 +1,23 @@
+alice: ENC[AES256_GCM,data:euxYfvRI9fZ0fDcJGk+/MdQxRA==,iv:W7A2VRGxGjzXpk4ErIirCS7aaxEAJLJZAWJI1U42I+w=,tag:PN9OnyaTbvL5BSkAm1z4yw==,type:str]
+stage: ENC[AES256_GCM,data:2tzNNQ==,iv:tICnxlrYBO5PSQDe1HizTK4a1cAUZZhJpo0ZXzQJPus=,tag:o+SD7YnuXkTCU1uofkXAHg==,type:str]
+key_2: ENC[AES256_GCM,data:2GkRaOk=,iv:m/1oEIi1J5fL7lFGCCgzHI+IwHAUIKWl2X3xDqtt21g=,tag:jQT8YCVtJPZhwsxx+XOdQA==,type:str]
+key_3: ENC[AES256_GCM,data:9H/KSeKq,iv:JeJEz2nIEiwYv0TUvbA8vMZe8KOc2BuSnZFLmcB+uis=,tag:8r5YvDv0oMARbNa0fDZJWA==,type:str]
+key_4: ENC[AES256_GCM,data:aunSYww=,iv:38UjDF3ol+JK8nKTKfM3+GVT83yChA547Nqm99/pXJo=,tag:L/4DEHjHOW3ku7UtKAcTyA==,type:str]
+key_5: ENC[AES256_GCM,data:8UmsIayl,iv:8uy59HrKFj2Uvg1EGmFwvM0IkiL3UMGinGx3nTXWxZE=,tag:NL6ToBElQ8T8nK0ArcDu4w==,type:str]
+key_6: ENC[AES256_GCM,data:7g2p5MA=,iv:fp9I4CENlxzX8R92rR51ZVfS73TKfANmyMs8b0XMCKI=,tag:Zphiyuk/SrdXTwQ7WbZDCA==,type:str]
+key_7: ENC[AES256_GCM,data:3hZfgwI=,iv:tv7kywxa1GYxpE6FAor00OQhfDGGjRmdawG3FJu9BHE=,tag:3e/SIvWPOAwhaXA/dzvufA==,type:str]
+key_8: ENC[AES256_GCM,data:vLF0Cxnckw==,iv:M31fgmLFh1gy54klctKaOUoaV1jTK3HUTZn4ICTnAgY=,tag:5vHnuj/lk/Ef/OipHTH9GA==,type:str]
+sops:
+    kms: []
+    gcp_kms: []
+    azure_kv: []
+    hc_vault: []
+    age: []
+    lastmodified: "2023-07-12T07:19:45Z"
+    mac: ENC[AES256_GCM,data:0h+hiyHfePRFXOTkET8/P4itAGb5TczQmDMDRo6EgjLmH/8EQmZJPSvpf3ijOuuknjjqLnfxFBXdhyfRNYIslICXI5DpHbVHFeJ4ywXm/gTkv4YXmVDhl73xx/VDI8l8gYkj0Sk+kji7MmxvrbpMUhKjAIQ5XCGqlHnOr/KFvec=,iv:XmvRryibRG8QKZle/22jGqbx8Zyp92qR400rd98LNKc=,tag:G7ioeCJrgLvEYsAKwdlZiA==,type:str]
+    pgp:
+        - created_at: "2023-07-12T07:19:04Z"
+          enc: "-----BEGIN PGP MESSAGE-----\r\n\r\nhF4DIpRV5c00RBISAQdAbZMHGTQgnFcoN+Velq0hFU+RYhyXj33IRmQix3KrwhIw\r\nSWV25tr+ToXJau0Z5x9BkB+phS9N+G3BFOeIFNHtaW6nmzLKzeE6ogIQezFazdHZ\r\n1GYBCQIQMPqAstTigpguJ2ueTcqsudksuJcH5gKBRidhrWLw64hATcrLGSF92x/c\r\nxM7FHhjEQ/Pz2auxBSNvMYk+e2oGBHjLQDiLd0y/qABG8mYIOeeGyXO3L+tHaGov\r\nFwKsjDszDj0=\r\n=ofsN\r\n-----END PGP MESSAGE-----\r\n"
+          fp: 7FAB62F3A63FC0D624D78B0055835C327C5D9F76
+    unencrypted_suffix: _unencrypted
+    version: 3.7.3
